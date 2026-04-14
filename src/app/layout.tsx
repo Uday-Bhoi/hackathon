@@ -36,9 +36,9 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-  title: "Antigravity | BVIMIT National Hackathon 2026",
+  title: "BVIMIT National Hackathon 2026",
   description:
-    "Join ANTIGRAVITY — BVIMIT's 24-hour national hackathon. Code, create, and collaborate at Navi Mumbai's premier student innovation event.",
+    "Join — BVIMIT's 24-hour national hackathon. Code, create, and collaborate at Navi Mumbai's premier student innovation event.",
 };
 
 export default function RootLayout({
