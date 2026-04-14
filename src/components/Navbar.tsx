@@ -54,7 +54,7 @@ const Navbar = () => {
       }}
     >
       <Link href="/" style={{ display: 'flex', alignItems: 'center', gap: '0.8rem' }}>
-        <Image src="/logo.png" alt="BVIMIT Logo" width={42} height={42} style={{ filter: 'drop-shadow(0 0 10px rgba(139, 92, 246, 0.3))' }} />
+        <Image src="/hackathon/logo.png" alt="BVIMIT Logo" width={42} height={42} style={{ filter: 'drop-shadow(0 0 10px rgba(139, 92, 246, 0.3))' }} />
         <div style={{ fontSize: '1.4rem', fontWeight: 800, letterSpacing: '-0.8px', fontFamily: 'var(--font-primary)' }}>
           <span style={{ color: 'var(--accent-primary)' }}>BVI</span>
           <span style={{ color: 'white' }}>MIT</span>
